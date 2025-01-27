@@ -7,7 +7,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "DaconDev",
+            "environmentName": "DaconUAT",
             "tenant": "40773bd8-d9fe-4745-9d44-851f81912eb4",
             "startupObjectId": 9800,
             "startupObjectType": "Page",
